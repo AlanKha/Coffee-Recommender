@@ -1,6 +1,6 @@
 # Coffee Recommender
 
-This repository contains notebooks for a personal project on recommending coffee bags using cosine similarity based on numeric attributes and textual descriptions. The project is divided into two main parts: data cleaning and analysis/recommendation.
+This repository contains notebooks for a personal project on recommending coffee bags using cosine similarity based on numeric attributes and textual descriptions. The project is divided into two main parts: data cleaning and analysis/recommendation. This project uses [This Kaggle Dataset](https://www.kaggle.com/datasets/patkle/coffeereviewcom-over-7000-ratings-and-reviews) by Patrick Klein.
 
 ## Project Structure
 
